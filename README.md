@@ -5,3 +5,7 @@ I'm building this repo as a reference to store my starter programs as I start le
 
 ### Wish to contribute or contact me?
 You are free to fork this repo and update whatever you deem is necessary. If you feel the need to contact me, do reach out to @Iminnarak in Telegram.
+
+### A few notable people who aided me in this journey
+Anush Bijoor
+Arvind Eswaran
